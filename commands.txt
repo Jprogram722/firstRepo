@@ -1,0 +1,21 @@
+This file will contain useful commands for git and github cli
+
+1. git init - initializes a local git repo
+2. git add <file> - this adds files to staging to be commited
+3. git commit - commits specified files to the local git repo
+4. git remote add <github link> - links a github repo to your local repo
+5. git push -u orgin <branch> - pushes the files in your git repo to github
+6. git log - checks your commit history
+7. git status - checks the status of the files before commiting
+8. git branch <name> - creates a new branch
+9. git checkout <name/ commit id> - allows you to view files in different branchs or commits
+10.git reset --hard - resets you files to how they were in the previous commit
+11. git revert <commit.id> - reverts you project to a previous commit
+12. gh repo create - creates a repo on your github account
+13. gh repo delete - deletes github repo
+14. git ls-files - shows a list of all files in your in your git repo
+15. git switch <name> - switchs which branch you are working in
+16. git mv <previous name -> new name> - rename or move files
+17. git rm <file> - deletes file from git repo
+18. git config - allows you change the config on your git repo
+19. gh pr create - creates a pull request
